@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Dev\math-sandbox\build\x64\Debug\math-sandbox.exe</FullPath>
+      <FullPath>C:\dev\math-sandbox\build\x64\Debug\math-sandbox.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

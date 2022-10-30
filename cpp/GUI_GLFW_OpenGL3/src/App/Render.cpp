@@ -3,7 +3,9 @@
 
 // External Dependencies
 #include "imgui.h"
+#include "imgui_internal.h"
 #include "implot.h"
+
 
 // Standard Library Builtins
 #include <math.h>
@@ -89,6 +91,7 @@ void API::GUI::RenderUI() {
         ImGui::EndMenuBar();
     }
 
+    
     ImPlot::ShowDemoWindow();
     ImGui::ShowDemoWindow();
 
