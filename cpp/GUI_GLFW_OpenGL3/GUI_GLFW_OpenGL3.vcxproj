@@ -29,11 +29,13 @@
     <ClCompile Include="ImPlot\implot.cpp" />
     <ClCompile Include="ImPlot\implot_demo.cpp" />
     <ClCompile Include="ImPlot\implot_items.cpp" />
-    <ClCompile Include="src\App\Render.cpp" />
+    <ClCompile Include="src\App\AppRender.cpp" />
+    <ClCompile Include="src\Fourier\FourierRender.cpp" />
     <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\App.h" />
+    <ClInclude Include="src\Fourier.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{4a1fb5ea-22f5-42a8-ab92-1d2df5d47fb9}</ProjectGuid>

@@ -2,7 +2,7 @@
 
 
 
-namespace API {
+namespace mthsndbx {
 	namespace GUI {
 		void RenderUI();
 

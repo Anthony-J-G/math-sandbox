@@ -10,7 +10,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\App\Render.cpp">
+    <ClCompile Include="src\App\AppRender.cpp">
       <Filter>sources</Filter>
     </ClCompile>
     <ClCompile Include="src\main.cpp">
@@ -46,8 +46,12 @@
     <ClCompile Include="ImGui\imgui_impl_opengl3.cpp">
       <Filter>sources</Filter>
     </ClCompile>
+    <ClCompile Include="src\Fourier\FourierRender.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\App.h" />
+    <ClInclude Include="src\Fourier.h" />
   </ItemGroup>
 </Project>
